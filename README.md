@@ -23,3 +23,8 @@ The course begins with a focus on deciphering the root cause of problems through
 The project of this course was about Applied Analytics and Data for Decision Making and its was consist of some instructions given to us.
 
 **#Note: My project is attached above with pdf extension with its certificate.**
+
+### * At the end of this course, i got the FINAL certificate of the path which is Data-Driven Decision Making (DDDM) certificate. Its also attached above.
+
+
+
